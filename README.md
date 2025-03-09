@@ -13,7 +13,7 @@ I am Revanth, a passionate Cybersecurity and AI Enthusiast, currently pursuing m
 
 ---
 
-Achievements  
+--Achievements-- 
 3rd Prize Winner – Boat Racing @ Meraz 2.0 (IIT Bhilai)  
 Social Content Provider @ IIT Dharwad  
 Git & GitHub Bootcamp Certified 
@@ -51,24 +51,10 @@ Tools & Platforms:
 ![Replit](https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=replit&logoColor=white)  
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)  
 
-
-
-
 Featured Projects  
  AI WhatsApp Chatbot – Chatbot that interacts on WhatsApp & analyzes PDFs.  
  Snake Game AI– AI-powered Snake Game using BFS, Bi-Directional Search & Simulated Annealing.  
  Cybersecurity Tools – Developing security tools for penetration testing.  
-
----
-
- 📊 GitHub Stats  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="Revanth's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="Top Languages" />
-</div>  
-
----
 
 🌐 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](www.linkedin.com/in/revanth-banothu-4b3347279)  
